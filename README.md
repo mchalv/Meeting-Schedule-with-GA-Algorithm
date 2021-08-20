@@ -1,6 +1,6 @@
-# Kecerdasan Buatan
+# Tugas 2 Kecerdasan Buatan
 
-Tugas 2: Schedule Rapat (GA Algorithm)
+Schedule Rapat (GA Algorithm)
 
 Anggota Kelompok 9:
 1. Francisco Allenxeon - C14190118
